@@ -9,7 +9,7 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 **Source:** Medium  
 **Published:** 2023  
 
-[Article on how AI is reshaping — not ending — software engineering](https://medium.com/@tsecretdeveloper/the-death-of-software-engineering-again-9f8bde0036de)
+[Article on how AI is reshaping — not ending — software engineering](https://reprog.wordpress.com/2026/01/13/the-death-of-software-engineering/)
 
 ## Reflection
 
